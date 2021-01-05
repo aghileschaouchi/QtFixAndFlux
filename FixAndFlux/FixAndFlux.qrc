@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/FixAndFlux"/>
+    <qresource prefix="/icons">
+        <file>database.png</file>
+        <file>disconnected.png</file>
+        <file>add_console.png</file>
+    </qresource>
+</RCC>
