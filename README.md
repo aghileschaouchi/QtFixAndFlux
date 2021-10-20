@@ -1,0 +1,1 @@
+A C++/Qt/Mysql application that helps console fixers managing their work.
